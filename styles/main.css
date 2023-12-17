@@ -9,38 +9,40 @@ h1 {
 .heading {
     text-align: center;
     font-size: larger;
+    font-family: 'Caveat';
 }
 
 .pp {
     width: 200px;
-
     float: right;
-
 }
 
-
 html {
-    background-color: rgba(45, 103, 45, 0.728);
+    background-color: #55836f;
 }
 
 .image {
     width: 150px;
     float: right;
-
+    padding-top: 15px;
+    padding-right: 20px;
 }
 
 .img {
     width: 150px;
     float: left;
-    f
+    padding-top: 15px;
+    padding-left: 20px;
 }
 
 .font {
-    font-family: "caveat";
+    font-family: 'Bebas Neue';
+    padding-left: 15px;
 }
 
 .font1 {
-    font-family: "bebas neue";
+    font-family: 'Bebas Neue';
+    padding-right: 15px;
 }
 
 .main {
@@ -51,4 +53,10 @@ html {
     height: 300px;
     margin-right: 90px;
     margin-left: 60px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    position: fixed;
 }

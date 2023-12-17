@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Caveat';
+    src: url('../fonts/font.ttf') format('woff2');
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('../fonts/font1.ttf') format('woff2'),
+}
