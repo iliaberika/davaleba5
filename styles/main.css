@@ -1,0 +1,54 @@
+h1 {
+    display: inline-block;
+    color: white;
+    margin-top: 50px;
+    margin-left: 120px;
+
+}
+
+.heading {
+    text-align: center;
+    font-size: larger;
+}
+
+.pp {
+    width: 200px;
+
+    float: right;
+
+}
+
+
+html {
+    background-color: rgba(45, 103, 45, 0.728);
+}
+
+.image {
+    width: 150px;
+    float: right;
+
+}
+
+.img {
+    width: 150px;
+    float: left;
+    f
+}
+
+.font {
+    font-family: "caveat";
+}
+
+.font1 {
+    font-family: "bebas neue";
+}
+
+.main {
+    background-color: yellow;
+    width: 33%;
+    display: inline-block;
+    margin-top: 100px;
+    height: 300px;
+    margin-right: 90px;
+    margin-left: 60px;
+}
